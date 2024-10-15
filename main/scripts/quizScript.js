@@ -1,0 +1,92 @@
+const _0x52761b = _0x288c;
+(function (_0x329452, _0xbd91d9) {
+  const _0x297dc6 = _0x288c,
+    _0x4b7fa9 = _0x329452();
+  while (!![]) {
+    try {
+      const _0x58c684 =
+        -parseInt(_0x297dc6(0xf5)) / 0x1 +
+        parseInt(_0x297dc6(0x106)) / 0x2 +
+        (-parseInt(_0x297dc6(0xfb)) / 0x3) * (parseInt(_0x297dc6(0xef)) / 0x4) +
+        parseInt(_0x297dc6(0xfd)) / 0x5 +
+        -parseInt(_0x297dc6(0xfe)) / 0x6 +
+        -parseInt(_0x297dc6(0xf6)) / 0x7 +
+        parseInt(_0x297dc6(0xf9)) / 0x8;
+      if (_0x58c684 === _0xbd91d9) break;
+      else _0x4b7fa9["push"](_0x4b7fa9["shift"]());
+    } catch (_0x5401af) {
+      _0x4b7fa9["push"](_0x4b7fa9["shift"]());
+    }
+  }
+})(_0x2aae, 0x82ec1);
+const form = document[_0x52761b(0xfc)]("quizForm"),
+  resultsDiv = document[_0x52761b(0xfc)](_0x52761b(0x10a));
+function _0x288c(_0x316f6c, _0x171773) {
+  const _0x2aae44 = _0x2aae();
+  return (
+    (_0x288c = function (_0x288cb6, _0x1df067) {
+      _0x288cb6 = _0x288cb6 - 0xef;
+      let _0x22d111 = _0x2aae44[_0x288cb6];
+      return _0x22d111;
+    }),
+    _0x288c(_0x316f6c, _0x171773)
+  );
+}
+function _0x2aae() {
+  const _0x135371 = [
+    "2\x20-\x20Не\x20правильно<br>",
+    "trim",
+    "results",
+    "4haVpCk",
+    "елка",
+    "firstQuestion",
+    "капустка",
+    "toLowerCase",
+    "1\x20-\x20Не\x20правильно<br>",
+    "337894ficTLV",
+    "6387500GqLqix",
+    "innerHTML",
+    "addEventListener",
+    "22842808zmijEX",
+    "value",
+    "757011AtenHv",
+    "getElementById",
+    "357240EqZjGX",
+    "6428136XqoJvd",
+    "secondQuestion",
+    "preventDefault",
+    "2\x20-\x20Правильно<br>",
+    "капуста",
+    "<br>Вы\x20угадали\x20",
+    "1\x20-\x20Правильно<br>",
+    "ель",
+    "367090fuDGdG",
+    "submit",
+  ];
+  _0x2aae = function () {
+    return _0x135371;
+  };
+  return _0x2aae();
+}
+form[_0x52761b(0xf8)](_0x52761b(0x107), function (_0x1fd5b8) {
+  const _0x31eb60 = _0x52761b;
+  _0x1fd5b8[_0x31eb60(0x100)]();
+  const _0x2ee566 = document["getElementById"](_0x31eb60(0xf1))
+      [_0x31eb60(0xfa)][_0x31eb60(0xf3)]()
+      [_0x31eb60(0x109)](),
+    _0x5ad6d6 = document[_0x31eb60(0xfc)](_0x31eb60(0xff))
+      [_0x31eb60(0xfa)][_0x31eb60(0xf3)]()
+      ["trim"]();
+  let _0x35f850 = 0x0,
+    _0x34a56f = "";
+  _0x2ee566 === _0x31eb60(0x105) ||
+  _0x2ee566 === _0x31eb60(0xf0) ||
+  _0x2ee566 === "ёлка"
+    ? ((_0x34a56f += _0x31eb60(0x104)), _0x35f850++)
+    : (_0x34a56f += _0x31eb60(0xf4)),
+    _0x5ad6d6 === _0x31eb60(0x102) || _0x5ad6d6 === _0x31eb60(0xf2)
+      ? ((_0x34a56f += _0x31eb60(0x101)), _0x35f850++)
+      : (_0x34a56f += _0x31eb60(0x108)),
+    (_0x34a56f += _0x31eb60(0x103) + _0x35f850 + "\x20загадок"),
+    (resultsDiv[_0x31eb60(0xf7)] = _0x34a56f);
+});

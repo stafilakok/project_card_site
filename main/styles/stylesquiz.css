@@ -1,0 +1,78 @@
+.card {
+  background-color: #454d55;
+}
+[class~="form-control"] {
+  background-color: #525962;
+}
+[class~="form-control"]:focus {
+  background-color: #5a6268;
+}
+[class~="form-control"],
+body,
+[class~="form-control"]:focus {
+  color: #f8f9fa;
+}
+body {
+  background-color: #343a40;
+}
+[class~="form-control"] {
+  border-left-color: #6c757d;
+}
+[class~="form-control"] {
+  border-bottom-color: #6c757d;
+}
+[class~="form-control"] {
+  border-right-color: #6c757d;
+}
+[class~="form-control"] {
+  border-top-color: #6c757d;
+}
+[class~="btn-success"] {
+  background-color: #198754;
+}
+.btn-success:hover {
+  background-color: #157347;
+}
+[class~="btn-success"] {
+  border-left-color: #198754;
+}
+.btn-success:hover {
+  border-left-color: #157347;
+}
+[class~="btn-success"] {
+  border-bottom-color: #198754;
+}
+[class~="card-body"] input,
+[class~="card-body"] p,
+[class~="card-body"] button {
+  color: #fff !important;
+}
+[class~="btn-success"] {
+  border-right-color: #198754;
+}
+[class~="btn-success"] {
+  border-top-color: #198754;
+}
+.btn-success:hover {
+  border-bottom-color: #157347;
+}
+.btn-success:hover {
+  border-right-color: #157347;
+}
+[class~="btn-success"],
+[class~="navbar-toggler"],
+[class~="navbar-brand"] {
+  color: #fff;
+}
+.navbar {
+  background-color: #212529;
+}
+.btn-success:hover {
+  border-top-color: #157347;
+}
+.navbar-toggler-icon {
+  filter: invert(1);
+}
+.card-title {
+  color: #fff !important;
+}

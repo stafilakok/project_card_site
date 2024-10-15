@@ -1,0 +1,158 @@
+[class~="question-container"] {
+  background-color: #454d55;
+}
+.answer-input,
+[class~="question-container"],
+[class~="answer-input"]:focus,
+[class~="answer-input"]:disabled,
+body {
+  color: #f8f9fa;
+}
+[class~="answer-input"]:focus {
+  background-color: #5a6268;
+}
+[class~="question-container"] {
+  border-radius: 10px;
+}
+[class~="question-container"] {
+  padding-left: 0.9375pc;
+}
+[class~="question-container"] {
+  padding-bottom: 0.9375pc;
+}
+[class~="question-container"] {
+  padding-right: 0.9375pc;
+}
+[class~="question-container"],
+[class~="answer-input"]:focus {
+  border-left-color: #6c757d;
+}
+[class~="question-container"] {
+  padding-top: 0.9375pc;
+}
+[class~="question-container"] {
+  margin-bottom: 0.208333333in;
+}
+[class~="question-container"] {
+  border-left-width: 0.010416667in;
+}
+[class~="question-container"] {
+  border-bottom-width: 0.010416667in;
+}
+[class~="question-container"] {
+  border-right-width: 0.010416667in;
+}
+[class~="question-container"] {
+  border-top-width: 0.010416667in;
+}
+[class~="question-container"] {
+  border-left-style: solid;
+}
+[class~="answer-input"]:focus,
+[class~="question-container"] {
+  border-bottom-color: #6c757d;
+}
+[class~="question-container"] {
+  border-bottom-style: solid;
+}
+[class~="question-container"] {
+  border-right-style: solid;
+}
+[class~="answer-input"]:focus,
+[class~="question-container"] {
+  border-right-color: #6c757d;
+}
+[class~="question-container"] {
+  border-top-style: solid;
+}
+[class~="answer-input"]:focus,
+[class~="question-container"] {
+  border-top-color: #6c757d;
+}
+[class~="question-container"] {
+  border-image: none;
+}
+[class~="question-text"] {
+  font-weight: bold;
+}
+[class~="question-text"] {
+  margin-bottom: 10px;
+}
+[class~="answer-input"]:disabled,
+.answer-input {
+  background-color: #525962;
+}
+[class~="btn-success"]:hover {
+  background-color: #157347;
+}
+.answer-input {
+  border-left-color: #6c757d;
+}
+.answer-input {
+  border-bottom-color: #6c757d;
+}
+[class~="btn-success"]:hover {
+  border-left-color: #157347;
+}
+.answer-input {
+  border-right-color: #6c757d;
+}
+body {
+  background-color: #343a40;
+}
+.answer-input {
+  border-top-color: #6c757d;
+}
+.answer-input {
+  padding-left: 7.5pt;
+}
+.answer-input {
+  padding-bottom: 7.5pt;
+}
+[class~="btn-success"]:hover {
+  border-bottom-color: #157347;
+}
+[class~="btn-success"]:hover {
+  border-right-color: #157347;
+}
+.answer-input {
+  padding-right: 7.5pt;
+}
+.answer-input {
+  padding-top: 7.5pt;
+}
+[class~="btn-success"]:hover {
+  border-top-color: #157347;
+}
+[class~="btn-success"] {
+  background-color: #198754;
+}
+[class~="btn-success"] {
+  border-left-color: #198754;
+}
+[class~="btn-success"] {
+  border-bottom-color: #198754;
+}
+[class~="btn-success"] {
+  border-right-color: #198754;
+}
+[class~="btn-success"] {
+  border-top-color: #198754;
+}
+[class~="navbar-toggler"],
+[class~="navbar-brand"],
+[class~="btn-success"] {
+  color: #fff;
+}
+[class~="answer-feedback"] {
+  margin-top: 10px;
+}
+[class~="answer-feedback"] {
+  font-size: 1rem;
+}
+.navbar {
+  background-color: #212529;
+}
+[class~="navbar-toggler-icon"] {
+  filter: invert(1);
+}
